@@ -1,0 +1,13 @@
+{
+  "name": "inicieirvm",
+  "version": "1.0.0",
+  "description": "Teste de candidatos da Inicie Educação.",
+  "main": "app.js",
+  "type": "module",
+  "author": "Iago Marinho",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1"
+  },
+  "devDependencies": {}
+}
